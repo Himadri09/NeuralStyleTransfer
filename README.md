@@ -13,9 +13,9 @@ Neural Style Transfer (NST) is an exciting and innovative application of deep le
 
 ### Running the Project
 
-1. Clone the repository using `git clone https://github.com/Himadri09/neural-style-transfer.git`.
+1. Clone the repository using `git clone https://github.com/Himadri09/NeuralStyleTransfer.git`.
 2. Open Jupyter Notebook home page.
-3. Navigate to the project directory  `neural-style-transfer`.
+3. Navigate to the project directory  `NeuralStyleTransfer`.
 4. Add paths for style content and output image.
 5. Run the script notebook.
 
